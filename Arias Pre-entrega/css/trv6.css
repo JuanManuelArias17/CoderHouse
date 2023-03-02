@@ -1,0 +1,94 @@
+header {
+    background-color: black;
+    margin-top: 0px;
+}
+
+.nav {
+    justify-content: space-around;
+    background-size: 150px;
+    color: white;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+}
+
+.carousel-inner {
+    padding: 1%;
+    position: relative;
+    left: 600px;
+    width: 750px;
+    height: 550px;
+}
+
+legend {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    padding-bottom: 0%;
+    font-size: 50px;
+}
+.imagenDecorativa{
+    display: flex;
+    justify-content: center;
+    padding: 0%;
+}
+
+.container {
+    display: flex;
+    justify-content:center ;
+}
+
+.col1{
+    position: relative;
+    top: 30%;
+}
+
+.col3{
+    position: relative;
+    top: -15%; 
+}
+
+.col4{
+    position: relative;
+    top: -15%; 
+    left: 35%;
+}
+
+.col5{
+    position: relative;
+    top: -5%; 
+    left: -10%;
+}
+
+body {
+
+    background-color: wheat
+}
+
+footer {
+    background-color: black;
+}
+
+.facebook {
+    padding: 2%;
+    position: absolute;
+    top: 293%;
+    left: 55%;
+}
+
+.web {
+    padding: 2%;
+    position: absolute;
+    top: 293%;
+    left: 38%;
+}
+
+.instagram {
+    padding: 2%;
+    position: absolute;
+    top: 293%;
+    left: 45.5%;
+}

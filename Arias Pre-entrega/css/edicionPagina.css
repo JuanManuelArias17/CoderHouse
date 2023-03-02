@@ -1,0 +1,102 @@
+header {
+    background-color: black;
+    margin-top: 0px;
+}
+
+.nav {
+    justify-content: space-around;
+    background-size: 150px;
+    color: white;
+    font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+}
+
+.navegadores {
+    padding-left: 200px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.navegadores:hover {
+    color: black;
+}
+
+body {
+    margin: 0;
+}
+
+.legenda {
+    color: #000000;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    padding-bottom: 0%;
+}
+
+.imagenDecorativa {
+    position: relative;
+    top: 90%;
+    left: 37%;
+}
+
+.centro-de-pagina {
+    color: black;
+}
+
+.col1 {
+    padding: 3%;
+}
+
+.col3 {
+    padding: 2%;
+    position: absolute;
+    left: -700px;
+    bottom: -750px;
+}
+
+.col4 {
+    padding: 2%;
+    position: relative;
+}
+
+.col5 {
+    position: absolute;
+    left: 650px;
+    bottom: -750px;
+}
+
+footer {
+    background-color: black;
+}
+
+.facebook {
+    padding: 2%;
+    position: absolute;
+    top: 198%;
+    left: 55%;
+}
+
+.web {
+    padding: 2%;
+    position: absolute;
+    top: 198%;
+    left: 38%;
+}
+
+.instagram {
+    padding: 2%;
+    position: absolute;
+    top: 197.5%;
+    left: 45.5%;
+}
+body{
+
+    background-color: wheat
+}
